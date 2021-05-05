@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F921AB42642793F00BDB508 /* UI-Exemple.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F921AB32642793F00BDB508 /* UI-Exemple.png */; };
 		3FE5436825A893A80090769B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE5436725A893A80090769B /* AppDelegate.swift */; };
 		3FE5436A25A893A80090769B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE5436925A893A80090769B /* SceneDelegate.swift */; };
 		3FE5436C25A893A80090769B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE5436B25A893A80090769B /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F921AB32642793F00BDB508 /* UI-Exemple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "UI-Exemple.png"; path = "../../../../Desktop/UI-Exemple.png"; sourceTree = "<group>"; };
 		3FE5436425A893A80090769B /* Storyboard UI Ex1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Storyboard UI Ex1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE5436725A893A80090769B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FE5436925A893A80090769B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,7 +60,6 @@
 				3FE5436925A893A80090769B /* SceneDelegate.swift */,
 				3FE5436B25A893A80090769B /* ViewController.swift */,
 				3FE5436D25A893A80090769B /* Main.storyboard */,
-				3F921AB32642793F00BDB508 /* UI-Exemple.png */,
 				3FE5437025A893A90090769B /* Assets.xcassets */,
 				3FE5437225A893A90090769B /* LaunchScreen.storyboard */,
 				3FE5437525A893A90090769B /* Info.plist */,
@@ -127,7 +124,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F921AB42642793F00BDB508 /* UI-Exemple.png in Resources */,
 				3FE5437425A893A90090769B /* LaunchScreen.storyboard in Resources */,
 				3FE5437125A893A90090769B /* Assets.xcassets in Resources */,
 				3FE5436F25A893A80090769B /* Main.storyboard in Resources */,
